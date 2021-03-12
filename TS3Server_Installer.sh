@@ -122,7 +122,7 @@ if [ "$opt" = "1" ]; then
   echo "│         Teamspeak³ Server Installer          │"
   echo "│               Installer v1.0                 │"
   echo "│              Script by xd vape               │"
-  echo "│                                              │"
+  echo "│      Updated and Translated By Joshua24h     │"
   echo "└──────────────────────────────────────────────┘"
   echo "Install the server automatically or decide for yourself?" 
   redMessage "If you want to install in your own folder, please create a new user!" 
@@ -223,7 +223,7 @@ fi
 
 if [ "$opt" = "2" ]; then
 
-NVERSION=3.12.1
+NVERSION=3.13.3
 
   clear
   echo "Has the server been installed automatically or in a dedicated folder?" 
